@@ -9,7 +9,7 @@ function IndexPage() {
     <Layout>
     
       <SEO
-        title="Bienvenidos a"
+        title="Bienvenidos a Helspisfy"
         keywords={[`gatsby`, `tailwind`, `react`, `tailwindcss`]}
       />
 
